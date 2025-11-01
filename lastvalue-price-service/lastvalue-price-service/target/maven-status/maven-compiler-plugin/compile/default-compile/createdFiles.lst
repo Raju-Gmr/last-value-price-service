@@ -1,0 +1,5 @@
+com\example\lastvaluepriceservice\model\BatchStatus.class
+com\example\lastvaluepriceservice\model\PriceRecord.class
+com\example\lastvaluepriceservice\service\PriceService.class
+com\example\lastvaluepriceservice\LastValuePriceServiceApplication.class
+com\example\lastvaluepriceservice\controller\PriceController.class
