@@ -99,6 +99,7 @@ File: controller/PriceController.java
 ---
 
 File: src/test/...
-- Contains a basic JUnit test that runs start->upload->complete then asserts values are present.
+- src/test/java/com/example/lastvaluepriceservice/PriceServiceTest.java
+This test suite includes 10 comprehensive JUnit test cases covering both valid and invalid batch lifecycle scenarios, concurrency, timestamp ordering, and exception handling to ensure robust functionality of PriceService.
 
 --- End of explanation
